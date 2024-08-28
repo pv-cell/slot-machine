@@ -1,1 +1,1 @@
-# slot-machine
+# jackpot -machine
